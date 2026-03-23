@@ -39,4 +39,5 @@ sudo nmap -O localhost
 ## Cybersecurity Relevance
 This lab reflects the **enumeration phase of a penetration testing workflow**, where analysts identify reachable systems, discover running services and evaluate potential entry points before vulnerability assessment.
 ## Evidence
-
+![Nmap Scan Result](nmap-scan.png)
+![Nmap Scan Result 2](nmap-scan2.jpeg)

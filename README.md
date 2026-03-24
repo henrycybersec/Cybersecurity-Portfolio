@@ -12,24 +12,22 @@ This repository documents my hands-on experience while building foundational ski
 
 ---
 
-## 🧪 Lab Projects
+## 💻 Lab Projects (Learning Progression)
 
-### 🔹 Linux Terminal Fundamentals
-Hands-on practice with Linux file system navigation, file operations, permissions awareness and terminal workflow.
+### 1️⃣ Linux Terminal Fundamentals  
+[View Project](./linux-terminal-fundamentals)
 
-### 🔹 Network Traffic Analysis Lab
-Observed live network traffic and explored how common protocols such as ICMP, DNS and HTTP operate.
+### 2️⃣ Process Monitoring Lab  
+[View Project](./process-monitoring-lab)
 
-### 🔹 Process Monitoring Lab
-Investigated running system processes and resource usage to understand system behaviour.
+### 3️⃣ Network Traffic Analysis Lab  
+[View Project](./network-traffic-analysis-lab)
 
-### 🔹 Log Analysis Lab
-Basic log investigation and event interpretation for security monitoring.
+### 4️⃣ Log Analysis Lab  
+[View Project](./log-analysis-lab)
 
-### 🔹 Host Enumeration with Nmap
-Performed network reconnaissance including host discovery, port scanning, service identification and basic OS fingerprinting.
-
----
+### 5️⃣ Host Enumeration with Nmap  
+[View Project](./host-enumeration-nmap)
 
 ## 🎯 Goal
 

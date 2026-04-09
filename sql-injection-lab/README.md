@@ -68,12 +68,12 @@ The vulnerability exists due to:
 ## 📸 Evidence
 
 ### Injection Point
-![Task](sql-injection task.png)
+![Task](sql-injection-task.jpeg)
 
-![Injection](sql-injection-1.png)
+![Injection](sql-injection-1.jpeg)
 
 ### Payload Execution
-![Payload](sql-injection-2.png)
+![Payload](sql-injection-2.jpeg)
 
 ### Data Extraction Result
-![Result](sql-injection-result.png)
+![Result](sql-injection-result.jpeg)
